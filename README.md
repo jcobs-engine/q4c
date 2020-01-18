@@ -1,4 +1,4 @@
-# Q4C #
+![Q4C](https://github.com/jcobs-engine/q4c/q4c_logo.png)
 
 ### Version v1: BaSH *( Linux )* ###
 
