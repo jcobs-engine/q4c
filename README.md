@@ -1,6 +1,6 @@
 # Q4C #
 
-### Version v1: BaSH *(Linux)* ###
+### Version v1: BaSH *( Linux )* ###
 
 - Run **main.sh** in a Linux Terminal.
 
@@ -8,7 +8,7 @@
 
   ​
 
-### Version v2: Software *(Windows / Linux / Mac)* ###
+### Version v2: Software *( Windows / Linux / Mac )* ###
 
 - Download **https://www.levi-jacobs.de/q4c/usb_image.img**
 
