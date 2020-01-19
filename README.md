@@ -12,7 +12,7 @@
 
 - Download **https://www.levi-jacobs.de/q4c/usb_image.img**
 
-- Write it on an **USB Stick**.
+- Write it on an **USB Stick** (min. 4GB).
 
 - Boot it.
 
